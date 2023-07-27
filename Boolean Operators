@@ -1,0 +1,35 @@
+public class Operations {
+    public static void main (String[] args) {
+
+        // modulus or remainder
+        int a = 11;
+        int b = 5;
+        int c = a % b;
+
+        // negation
+        boolean d = true;
+        boolean e = !d;
+
+        // AND - returns true when both are true
+        boolean f = true;
+        boolean g = true;
+        boolean h = f && g;
+
+        // OR - returns true if one is true
+        boolean i = false;
+        boolean j = true;
+        boolean k = i || j;
+
+        // exclusive OR - returns true is one is true and another false
+        boolean l = true;
+        boolean m = false;
+        boolean n = l ^ m;
+
+        System.out.println(c);
+        System.out.println(e);
+        System.out.println(h);
+        System.out.println(e);
+        System.out.println(n);
+    }
+
+}
