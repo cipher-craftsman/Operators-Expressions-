@@ -6,6 +6,7 @@ public class Operations {
         int b = 5;
         int c = a % b;
 
+// LOGICAL OPERATORS
         // negation
         boolean d = true;
         boolean e = !d;
@@ -25,11 +26,33 @@ public class Operations {
         boolean m = false;
         boolean n = l ^ m;
 
+// RELATIONAL OPERATORS
+          // EQUALITY - primitive and reference data types (Returns true is the operators or objects are the same respectively
+
+        int o = 1, p = 1;
+        boolean q = o == p;
+
+        String r = "true", s = "false";
+        boolean t = r == s;
+
+        //  NOT EQUAL
+        int v = 1, w = 1;
+        boolean x = v != w;
+
+        String y = "true", z = "false";
+        boolean a1 = y != z;
+
+
         System.out.println(c);
         System.out.println(e);
         System.out.println(h);
         System.out.println(e);
         System.out.println(n);
+        System.out.println(q);
+        System.out.println(t);
+        System.out.println(x);
+        System.out.println(a1);
+
     }
 
 }
