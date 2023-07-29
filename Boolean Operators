@@ -35,6 +35,14 @@ public class Operations {
         String r = "true", s = "false";
         boolean t = r == s;
 
+ //  NOT EQUAL
+        int v = 1, w = 1;
+        boolean x = v != w;
+
+        String y = "true", z = "false";
+        boolean a1 = y != z;
+
+
         //  NOT EQUAL
         int v = 1, w = 1;
         boolean x = v != w;
@@ -52,6 +60,7 @@ public class Operations {
         System.out.println(x);
         System.out.println(a1);
 
+       
   
 
     }
