@@ -52,8 +52,7 @@ public class Operations {
         System.out.println(x);
         System.out.println(a1);
 
-
-        
+  
 
     }
 
