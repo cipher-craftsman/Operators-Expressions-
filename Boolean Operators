@@ -1,5 +1,4 @@
-public class Operations {
-    public static void main (String[] args) {
+
 
         // modulus or remainder
         int a = 11;
