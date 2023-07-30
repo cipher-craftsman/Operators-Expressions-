@@ -1,3 +1,10 @@
+public class Operations {
+    public static void main (String[] args) {
+
+        // modulus or remainder
+        int a = 11;
+        int b = 5;
+        int c = a % b;
 
 
         // modulus or remainder
