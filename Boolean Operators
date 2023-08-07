@@ -59,15 +59,7 @@ public class Operations {
 
 
 
-        System.out.println(c);
-        System.out.println(e);
-        System.out.println(h);
-        System.out.println(e);
-        System.out.println(n);
-        System.out.println(q);
-        System.out.println(t);
-        System.out.println(x);
-        System.out.println(a1);
+        
   
 
     }
